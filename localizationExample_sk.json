@@ -1,0 +1,42 @@
+{"items":[
+	{"key":"name","value":"Slovenčina"},
+	{"key":"ui_menu_resume_game","value":"Pokračovať"},
+	{"key":"ui_menu_save_game","value":"Uložit"},
+	{"key":"ui_menu_load_game","value":"Načítať"},
+	{"key":"ui_menu_options","value":"Nastavenia"},
+	{"key":"ui_menu_main_menu","value":"Hlavné Menu"},
+	{"key":"ui_menu_back","value":"Späť"},
+	{"key":"ui_options_gameplay","value":"Nastavenia Hry"},
+	{"key":"ui_options_controls","value":"Ovládanie"},
+	{"key":"ui_options_video","value":"Nastavenia Videa"},
+	{"key":"ui_options_audio","value":"Nastavenia Zvuku"},
+	{"key":"ui_options_language","value":"Jazyk"},
+	{"key":"ui_controls_mouse_sensitivity","value":"Citlivosť Myši"},
+	{"key":"ui_controls_mouse_invert","value":"Invertovať Vertikálne"},
+	{"key":"ui_video_resolution","value":"Rozlíšenie"},
+	{"key":"ui_video_fullscreen","value":"Fullscreen"},
+	{"key":"ui_video_framerate","value":"Framerate"},
+	{"key":"ui_video_vertical_sync","value":"Vertikálna Synchronizácia"},
+	{"key":"ui_video_motion_blur","value":"Motion Blur"},
+	{"key":"ui_video_film_grain","value":"Film Grain"},
+	{"key":"ui_video_bloom","value":"Bloom"},
+	{"key":"ui_video_fps_locked","value":"FPS Lock"},
+	{"key":"ui_video_fps_unlocked","value":"Neobmedzené"},
+	{"key":"ui_audio_master","value":"Master"},
+	{"key":"ui_audio_sound_effects","value":"Zvukové Efekty"},
+	{"key":"ui_audio_music","value":"Hudba"},
+	{"key":"ui_language_refresh","value":"Načítať Súbory"}
+],
+"dialogues":[
+	{"key":"dlg_example1","items":[
+		{"name":"Peter","text":"Nad textom je zobrazené meno Postavy"},
+		{"name":"Peter","text":"Text sa zobrazuje písmenko po písmenku"},
+		{"name":"Peter","text":"Pred pokračovaním nastane krátka pauza potom ako sa celý text vypíše"}
+	]},
+	{"key":"dlg_example2","items":[
+		{"name":"Peter","text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pulvinar finibus sapien, ac mollis ex fringilla eu."},
+		{"name":"Peter","text":"Vivamus vestibulum neque a lobortis auctor. Aliquam dictum felis eget sagittis fermentum."},
+		{"name":"Peter","text":"Suspendisse et urna at neque imperdiet ultricies eu eu neque."},
+		{"name":"Peter","text":"Quisque sit amet leo iaculis, dignissim mi a, aliquet libero."}
+	]}
+]}
